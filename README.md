@@ -26,7 +26,7 @@
   
 🎓 &nbsp; Completed MCA from Chandigarh University
   
-💼 &nbsp; Aspiring Fullstack developer with 2 year experience as at TCI Group Ltd.
+💼 &nbsp; Aspiring Fullstack developer with 2 year experience  at TCI Group Ltd.
 
 👯‍♂️ &nbsp;&nbsp;Looking to Contribute to .NET projects with lots of learning and experience.Happy to Contribute in Open source Projects<br>
   
@@ -34,7 +34,7 @@
   
   I will be happy to help,and if unable then surely will work together towards learning new things.
 
-⚡ Fun fact: Passion for coding, Listening Music and Watching Spors
+⚡ Fun fact: Passion for coding, Listening Music and Watching Sports
 
 RESUME :- [![Resume.pdf](https://img.shields.io/static/v1?label=&message=Pawan-Kumar&color=16C8FC&logo=globe&logoColor=FFFFFF)](https://drive.google.com/drive/folders/13LtOXBC8AwjXQl1GlIKRh_WsaMmrEcMh)
 
